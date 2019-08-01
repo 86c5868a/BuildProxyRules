@@ -1,5 +1,5 @@
 # To generate proxy rules for various applications
 
-# TODO
+## TODO
 - Deduplicate source file rules
 - Generate Quantumult X reject rules
